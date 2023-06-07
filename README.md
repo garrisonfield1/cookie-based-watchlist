@@ -45,12 +45,6 @@ This is not a functioning application, just an excerpt of code that runs in a la
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/Sean_McIntyre) - sean_mcintyre@hotmail.com.com
+Sean McIntyre- [@Sean_McIntyre](https://twitter.com/Sean_McIntyre) - sean_mcintyre@hotmail.com.com
 
 Project Link: [https://github.com/garrisonfield1/cookie-based-watchlist](https://github.com/garrisonfield1/cookie-based-watchlist)
-
-
-
-
-
-
